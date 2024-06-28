@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/rahul_rxp" target="blank"><img src="https://img.shields.io/twitter/follow/rahul_rxp?logo=twitter&style=for-the-badge" alt="rahul_rxp" /></a> </p>
 
-- 🔭 I’m currently working at Codiction as a [Managing director](https://facebook.com/codiction.official)
-
 - 🌱 I’m currently learning **Cyber security**
 
 - 🔭 I’m currently working on [Marketing strategy development](https://freecodehub.xyz)
